@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<groups>
+<run>
+<include name="reg">
+
+</include>
+</run>
+</groups>
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="PracticeTest.tc3Test"/>
+      <class name="PracticeTest.tc1"/>
+      <class name="PracticeTest.tc2Test"/>
+      <class name="PracticeTest.tc4Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
