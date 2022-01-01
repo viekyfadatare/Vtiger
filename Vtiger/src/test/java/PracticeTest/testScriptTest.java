@@ -16,6 +16,11 @@ public class testScriptTest {
 		System.out.println("===========I am Vieky=========");
 	}
 	
+	@Test
+	public void ekOrMethodLagaDe() {
+		System.out.println("==== laga di ek or meyhod===");
+	}
+	
 	/*@Test
 	public void testS() {
 
