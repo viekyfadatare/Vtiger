@@ -20,4 +20,10 @@ public class tc4Test {
 		System.out.println("=======i am Regrassion test4======");
 
 	}
+	
+	@Test
+	
+	public void yebHiEkMethodTC4() {
+		System.out.println("=========new Method of TC4=====");
+	}
 }
