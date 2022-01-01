@@ -20,4 +20,9 @@ public class tc3Test {
 		System.out.println("=======i am Regrassion test3======");
 
 	}
+	
+	@Test
+	public void yeMethod() {
+		System.out.println("=======method of TC3=====");
+	}
 }
